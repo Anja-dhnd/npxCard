@@ -1,0 +1,31 @@
+{
+  "name": "anjadhnd",
+  "version": "1.0.0",
+  "description": "The Queen's card",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anja-dhnd/npxCard.git"
+  },
+  "keywords": [
+    "npx",
+    "card",
+    "npm"
+  ],
+  "author": "Anja-Dhnd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anja-dhnd/npxCard/issues"
+  },
+  "homepage": "https://github.com/Anja-dhnd/npxCard#readme",
+  "dependencies": {
+    "boxen": "^5.1.2",
+    "chalk": "^4.1.2",
+    "clear": "^0.1.0",
+    "inquirer": "^8.1.5",
+    "open": "^8.2.1"
+  }
+}
