@@ -1,8 +1,11 @@
 {
-  "name": "anjadhnd",
+  "name": "anaisdhnd",
   "version": "1.0.0",
   "description": "The Queen's card",
   "main": "index.js",
+  "bin": {
+    "anaisdhnd": "index.js"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
